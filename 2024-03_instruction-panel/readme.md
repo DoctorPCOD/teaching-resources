@@ -6,4 +6,4 @@ Instructor resources related to the March 20, 2024 instruction panel **Creating 
 - Cards: this is a template for the cards that I use, feel free to make your own
 - [round-robin-lab-partners](https://github.com/DoctorPCOD/teaching-resources/blob/0411d1d7ca17627e62d8c69e182e43b882794241/2024-03_instruction-panel/round-robin-lab-partners.pdf): this demonstrates how to assign students lab groups in a round-robin format
 - [PeerEval-final](https://github.com/DoctorPCOD/teaching-resources/blob/a344b132c9ddddc47c715035d0c4ed6088f65292/2024-03_instruction-panel/PeerEval-final.pdf): this is the evaluation form I have students fill out for group work
-- [weighted_project_scores](https://github.com/DoctorPCOD/teaching-resources/blob/287919154aeac17e76f73c41ac8b9359a4e5da93/2024-03_instruction-panel/weighted_project_scores.pdf): this explains how the project scores are calculated in weighted group work
+- [weighted_project_scores](https://github.com/DoctorPCOD/teaching-resources/blob/ad01300695ea9e55bf282091b4a088105f7a361f/2024-03_instruction-panel/weighted_project_scores.pdf): this explains how the project scores are calculated in weighted group work
