@@ -5,3 +5,4 @@ Instructor resources related to the March 20, 2024 instruction panel **Creating 
 - **lab_partner_evaluation_form-V3**: this is the form I had students fill out to evaluate their peers after working together in lab
 - Cards: this is a template for the cards that I use, feel free to make your own
 - **round-robin-lab-partners**: this demonstrates how to assign students lab groups in a round-robin format
+- **PeerEval-final**: this is the evaluation form I have students fill out for group work
