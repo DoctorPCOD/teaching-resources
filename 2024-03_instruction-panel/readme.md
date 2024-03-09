@@ -6,6 +6,6 @@ Instructor resources related to the March 20, 2024 instruction panel **Creating 
 - Cards: this is a template for the cards that I use, feel free to make your own
 - [round-robin-lab-partners](round-robin-lab-partners.pdf): this demonstrates how to assign students lab groups in a round-robin format
 - [PeerEval-final](PeerEval-final.pdf): this is the evaluation form I have students fill out for group work
-- [weighted_score_worksheet](weighted_score_worksheet.xlsx): this explains how the project scores are calculated in weighted group work
+- [weighted_score_worksheet](weighted_score_worksheet.xlsx): this calculates project scores for weighted group work (this is an excel file, download it to edit the file)
 
 
